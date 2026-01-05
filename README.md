@@ -45,7 +45,7 @@
 ## Пример использования
 
 ```python
-from homework_1 import StudentManager
+from main import StudentManager
 
 # Создаём менеджера
 manager = StudentManager()
